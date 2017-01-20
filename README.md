@@ -1,2 +1,2 @@
-A new great project
-123
+LICENSE
+Great gitcamp project
